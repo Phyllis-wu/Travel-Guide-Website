@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header>
+    <nav>
+     <a href="index.html" >Homepage</a>
+     <a href="Attractions.html" >Attractions</a>
+     <a href="About.html" >About</a>
+  </nav>
+    </header>
+  
+
+
+
+<main>
+<section class="form">
+    <h2>Contact Form</h2>
+    <form action="https://httpbin.org/post" method="post">
+    
+    <label for="fname">First Name</label>
+    <input
+    type="text"
+    name="fname"
+    id="fname"
+    required 
+    
+   
+
+    />
+
+    <br /><br />
+    
+    <label for="lname">Last Name</label>
+    <input
+    type="text"
+    name="lname"
+    id="lname"
+    required 
+    
+    
+
+    />
+
+    <br /><br />
+    <label for="phone">Phone Number</label>
+    <input 
+    type="tel"
+    name="phone"
+    id="phone"
+    required pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"
+    />
+
+
+    <br /><br />
+    <label for="email">Email</label>
+    <input type="email" name="email" id="email" required />
+    
+
+    <br /><br /> 
+    <label for="password">Password</label>
+    <input type="password" name="password" id="password" required/> 
+    <br /><br />
+    <label for="rememberme">Remember Me</label>
+    <input type="checkbox" name="rememberme" id="rememberme"/>
+
+    <br /><br />
+    <label for="leaveyourcommentorquesetion">Leave your comments or quesetions</label>
+    <br /><br />
+    <textarea 
+    name="leaveyourcommentorquesetion"
+    id="leaveyourcommentorquesetion"
+    rows="6"
+    cols="70">
+    </textarea>
+
+
+
+     <br /><br />
+     <label for="subscribetoournewsletter">Subscribe to Our Newsletter?</label>
+     <input 
+     type="checkbox"
+     name="subscribetoournewsletter" 
+     id="subscribetoournewsletter"
+     />
+
+     <br /><br />
+     <button type="submit">Submit</button>
+
+     <button type="reset">Reset</button>
+
+    </form>
+</section>   
+</main>
+<footer></footer> 
+</body>
+</html>
