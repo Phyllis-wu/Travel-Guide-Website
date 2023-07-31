@@ -6,7 +6,9 @@
 The purpose is to provide a travel guide website for travelers as a refernece to travel in Ottawa 
 
 
-Web: Visit https://64c3cca9edee7a7d2cfffbe1--shiny-sopapillas-58c217.netlify.app/. Install as a PWA for native-like functionality!🥳 🚀
+Web: Visit https://64c3cca9edee7a7d2cfffbe1--shiny-sopapillas-58c217.netlify.app/ 
+
+🥳 🚀
 
 
 
