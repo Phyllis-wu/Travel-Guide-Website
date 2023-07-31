@@ -1,10 +1,7 @@
-
 # Travel Guide Website
 ## Description 
 
-
 The purpose is to provide a travel guide website for travelers as a refernece to travel in Ottawa 
-
 
 Web: Visit https://64c3cca9edee7a7d2cfffbe1--shiny-sopapillas-58c217.netlify.app/ 
 
@@ -19,6 +16,8 @@ Web: Visit https://64c3cca9edee7a7d2cfffbe1--shiny-sopapillas-58c217.netlify.app
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+
+  
 ## Installation
 
 Clone the file, open it on the server and open the project
@@ -38,6 +37,4 @@ To get started with Amplication, the hosted version of the product can be used. 
 
 ## Credits
 ## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
