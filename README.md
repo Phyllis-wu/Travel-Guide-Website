@@ -7,7 +7,8 @@ Web Visit: https://64c3cca9edee7a7d2cfffbe1--shiny-sopapillas-58c217.netlify.app
 
 🥳 🚀
 
-![image](https://github.com/Phyllis-wu/Travel-Guide-Website/assets/140414582/a2749a75-5004-4182-9746-cea4e776cabd)
+![image](https://github.com/Phyllis-wu/Travel-Guide-Website/assets/140414582/53a3314a-8efc-4a25-9c7c-75d26a8886ef)
+
 
 
 ## Table of Content
