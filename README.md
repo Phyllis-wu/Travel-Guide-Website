@@ -9,7 +9,11 @@ Web Visit: https://64c3cca9edee7a7d2cfffbe1--shiny-sopapillas-58c217.netlify.app
 
 ![image](https://github.com/Phyllis-wu/Travel-Guide-Website/assets/140414582/53a3314a-8efc-4a25-9c7c-75d26a8886ef)
 
-
+## Features
+Homepage
+Attractions
+Contact
+About Us
 
 ## Table of Content
 
@@ -22,7 +26,9 @@ Web Visit: https://64c3cca9edee7a7d2cfffbe1--shiny-sopapillas-58c217.netlify.app
   
 ## Installation
 
-Clone the file, open it on the server and open the project
+Clone Repo (git clone: https://github.com/Phyllis-wu/Travel-Guide-Website )
+Open code folder
+Run index.html file
     
     
 ## Usage/Examples
